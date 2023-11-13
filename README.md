@@ -1,4 +1,4 @@
-# QDO
+# LESHI
 
 This repository provides the code for the paper *Lensless Efficient Snapshot Hyperspectral Imaging aided by an LCoS-SLM.
 
