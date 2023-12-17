@@ -1,6 +1,6 @@
-# LESHI
+# QDO
 
-This repository provides the code for the paper *Lensless Efficient Snapshot Hyperspectral Imaging aided by an LCoS-SLM.
+This repository provides the code for the paper *Quantization-aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging* (CVPR 2022).
 
 ## Environment
 
@@ -108,14 +108,4 @@ python evaluator.py --checkpoint_dir CHEKPOINT_DIR \
 
 The evaluator will output test results into **./eval-res/**, including .csv files with test metrics, visualized RGB images, and corresponding hyperspectral .mat files.
 
-# Citation
-If our code is useful in your reseach work, please consider citing our paper.
-```
-@inproceedings{li2022quantization,
-  title={Quantization-aware Deep Optics for Diffractive Snapshot Hyperspectral Imaging},
-  author={Li, Lingen and Wang, Lizhi and Song, Weitao and Zhang, Lei and Xiong, Zhiwei and Huang, Hua},
-  booktitle={CVPR},
-  year={2022},
-  pages={19780-19789}
-}
 ```
